@@ -6,6 +6,8 @@ Hello! My name is Patrick Chung, and this is my GitHub user page.
 I am a programmer interested in **software engineering**, *machine learning*, and building real systems that people can use.
 
 > I like learning by building projects and figuring out how systems work end to end.
+> I love collaborating with other passionate engineers and programmers.
+> I love dogs.
 
 ## Programmer Profile
 Some things I enjoy working on:
